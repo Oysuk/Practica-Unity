@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Heroe.cs">
+    <Files>
+      <File FileName="Assets\Script\Heroe.cs" Line="255" Column="43" />
+      <File FileName="Assets\Script\Villanos.cs" Line="68" Column="18" />
+      <File FileName="Assets\Script\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Vidas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Malos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Prueba.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BalasE.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Boss.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Almas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Balas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Botton.cs" Line="24" Column="20" />
+      <File FileName="Assets\Script\PlataformaMovilUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlataformaRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Button Start.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PRUEBA1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

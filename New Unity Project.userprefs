@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Users\LordFartquat\Clase 10 -Transform\Clase 10 - Transform - Noche\Clase 10 - Transform\Clase 10\Assets\Scripts\Auto.cs">
+    <Files>
+      <File FileName="Assets\Heroe.cs" Line="102" Column="44" />
+      <File FileName="..\..\..\Users\LordFartquat\Clase 9 - Funciones , Introduccion a Sprites\Clase 9\Assets\Scripts\Puas.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Users\LordFartquat\Clase 10 -Transform\Clase 10 - Transform - Noche\Clase 10 - Transform\Clase 10\Assets\Scripts\Auto.cs" Line="16" Column="2" />
+      <File FileName="Assets\Balas.cs" Line="22" Column="23" />
+      <File FileName="H:\PROGRAMACION0\Clase 13 -Listas , integracion (disparos) , Text\Clase 13\Clase 13\Assets\Scripts\Bullet.cs" Line="25" Column="3" />
+      <File FileName="H:\PROGRAMACION0\Clase 13 -Listas , integracion (disparos) , Text\Clase 13\Clase 13\Assets\Scripts\Torreta.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
